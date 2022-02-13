@@ -16,6 +16,7 @@ Projet à réaliser pour la formation Becode avec une dead line fixé à vendred
 ## Liens
 
 - [Repo du projet](https://github.com/chris-delecluse/1st-responsive-challenge)
+- [Github pages du projet](https://chris-delecluse.github.io/1st-responsive-challenge/)
 
 ## Auteur
 
